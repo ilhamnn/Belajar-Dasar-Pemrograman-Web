@@ -14,9 +14,3 @@ Clone the project
 ```bash
   git clone https://github.com/ilhamnn/Belajar-Dasar-Pemrograman-Web.git
 ```
-
-Go to the project directory
-
-```bash
-  cd Belajar Dasar Pemrograman Web
-```
